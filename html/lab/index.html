@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Login%20Page/style.css">
+    <link rel="stylesheet" href="common-style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>easywork</title>
+</head>
+<body class="bg-body-tertiary d-flex flex-column min-vh-100">
+
+<header class="navbar navbar-expand-lg header-footer">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav  text-center">
+                <li class="nav-item">
+                    <a class="nav-link " href="SignUpPage/index.html">Sign-Up</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<main class="container-fluid vh-100 d-flex align-items-center justify-content-center main-container">
+    <div class="container text-center login-block">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h1 class="welcome-text base-text">WELCOME</h1>
+                <form>
+                    <div class="mb-3">
+                        <label>
+                            <input type="text" placeholder="Email / Username" name="uname" class="form-control base-text" required>
+                        </label>
+                    </div>
+
+                    <div class="mb-3">
+                        <label>
+                            <input type="password" placeholder="Password" name="psw" class="form-control base-text" required>
+                        </label>
+                    </div>
+
+                    <button type="submit" onclick="location.href='MainPage/index.html'" class="btn btn-outline-success">
+                        Login
+                    </button>
+                </form>
+
+                <h1 class="fw-bold info-text base-text">You don't have an account yet?</h1>
+                <a href="SignUpPage/index.html">
+                    <h1 class="fw-bold fs-2 text-decoration-underline base-text">Get started</h1>
+                </a>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer class="header-footer p-2 text-success">
+    <div class="container mx-auto">
+        <span class="text-muted">© 2024 easywork. All rights reserved.</span>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+
+</body>
+</html>

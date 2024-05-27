@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.header-footer {
+    background-color: #33AB5F;
+}
+
+.navbar {
+    margin: 0;
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-container {
+    background-color: #8CDBA9;
+    padding: 0;
+    margin: auto;
+}
+
+
+.login-block {
+    max-width: 256px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #33AB5F;
+}
+
+.register-text {
+    padding: 0;
+    width: 100%;
+    font-size: xx-large;
+}
+
+.info-text {
+    font-size: medium;
+    padding-top: 10px;
+}
+
+.start-text {
+    padding-top: 15px;
+    font-size: x-large;
+}
+
+
+.text-input-label {
+    color: #8CDBA9;
+}
+
+.base-text {
+    color: white;
+    text-align: center;
+    position: relative;
+    font-family: "Fredoka", sans-serif;
+}
+
+
+.register-text {
+    padding: 0;
+    width: 100%;
+    font-size: xx-large;
+}

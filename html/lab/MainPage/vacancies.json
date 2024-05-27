@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "ABC Company",
+    "location": "New York",
+    "salary": "$60,000 - $80,000 per year",
+    "description": "We are looking for a skilled Frontend Developer to join our team. ..."
+  },
+  {
+    "title": "Backend Developer",
+    "company": "XYZ Inc.",
+    "location": "San Francisco",
+    "salary": "$70,000 - $90,000 per year",
+    "description": "XYZ Inc. is seeking a talented Backend Developer to help us build ..."
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Data Insights Co.",
+    "location": "Chicago",
+    "salary": "$80,000 - $100,000 per year",
+    "description": "Data Insights Co. is looking for a Data Scientist to analyze complex datasets and ..."
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design Solutions LLC",
+    "location": "Los Angeles",
+    "salary": "$65,000 - $85,000 per year",
+    "description": "Design Solutions LLC is seeking a creative UI/UX Designer to join our innovative team ..."
+  },
+  {
+    "title": "Marketing Manager",
+    "company": "Global Marketing Group",
+    "location": "London",
+    "salary": "£50,000 - £70,000 per year",
+    "description": "Global Marketing Group is hiring a Marketing Manager to develop and implement marketing ..."
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "ABC Company",
+    "location": "New York",
+    "salary": "$60,000 - $80,000 per year",
+    "description": "We are looking for a skilled Frontend Developer to join our team. ..."
+  },
+  {
+    "title": "Backend Developer",
+    "company": "XYZ Inc.",
+    "location": "San Francisco",
+    "salary": "$70,000 - $90,000 per year",
+    "description": "XYZ Inc. is seeking a talented Backend Developer to help us build ..."
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Data Insights Co.",
+    "location": "Chicago",
+    "salary": "$80,000 - $100,000 per year",
+    "description": "Data Insights Co. is looking for a Data Scientist to analyze complex datasets and ..."
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Design Solutions LLC",
+    "location": "Los Angeles",
+    "salary": "$65,000 - $85,000 per year",
+    "description": "Design Solutions LLC is seeking a creative UI/UX Designer to join our innovative team ..."
+  },
+  {
+    "title": "Marketing Manager",
+    "company": "Global Marketing Group",
+    "location": "London",
+    "salary": "£50,000 - £70,000 per year",
+    "description": "Global Marketing Group is hiring a Marketing Manager to develop and implement marketing ..."
+  },
+  {
+    "title": "Marketing Manager",
+    "company": "Global Marketing Group",
+    "location": "London",
+    "salary": "£50,000 - £70,000 per year",
+    "description": "Global Marketing Group is hiring a Marketing Manager to develop and implement marketing ..."
+  }
+]

@@ -1,0 +1,43 @@
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 120%;
+}
+
+.login-block {
+    max-width: 256px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #33AB5F;
+}
+
+.welcome-text {
+    padding: 0;
+    width: 100%;
+    font-size: xx-large;
+}
+
+.info-text {
+    font-size: small;
+    padding-top: 10px;
+    margin: 0;
+}
+
+
+.login-button {
+    background-color: #8CDBA9;
+    border-radius: 10px;
+    border-width: 0;
+    font-family: "Fredoka", sans-serif;
+    color: #33AB5F;
+}
+
+.get-started-text {
+    padding: 0;
+    margin: 0;
+    font-size: large;
+}
